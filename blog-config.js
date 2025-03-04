@@ -1,0 +1,32 @@
+module.exports = {
+  title: "loisRK",
+  description: "Hello :) I'm Lois Kim :)",
+  author: "LOIS",
+  siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
+  links: {
+    github: "https://github.com/loisRK",
+    linkedIn: "https://www.linkedin.com/in/ryunkyung-kim/",
+    // facebook: "",
+    // twitter: "",
+    // x: "",
+    // instagram: "",
+    // medium: "https://medium.com",
+    // blogger: "https://blogger.com",
+    email: "mailto:loiskim150@gmail.com",
+    resume: "https://rollslois.notion.site/RyunKyung-Kim-4a205f94e4a84efaa27f65b5459ace93?pvs=4",
+    // link: "https://hudi.blog",
+  },
+  useAbout: true,
+  // See https://giscus.app/
+  giscus: {
+    repo: "devHudi/gatsby-starter-hoodie",
+    repoId: "MDEwOlJlcG9zaXRvcnkzNjk4NjMzNTg=",
+    category: "Comments",
+    categoryId: "DIC_kwDOFguqvs4ChwGy",
+    mapping: "pathname",
+    strict: "0",
+    reactionsEnabled: "1",
+    inputPosition: "bottom",
+    lang: "en",
+  },
+}
