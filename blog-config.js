@@ -1,6 +1,6 @@
 module.exports = {
-  title: "loisRK",
-  description: "Hello :) I'm Lois Kim :)",
+  title: "LoisLog",
+  description: "Hello, I'm Lois Kim :)",
   author: "LOIS",
   siteUrl: "https://devhudi.github.io/gatsby-starter-hoodie/",
   links: {
@@ -13,7 +13,7 @@ module.exports = {
     // medium: "https://medium.com",
     // blogger: "https://blogger.com",
     email: "mailto:loiskim150@gmail.com",
-    resume: "https://rollslois.notion.site/RyunKyung-Kim-4a205f94e4a84efaa27f65b5459ace93?pvs=4",
+    // resume: "https://rollslois.notion.site/RyunKyung-Kim-4a205f94e4a84efaa27f65b5459ace93?pvs=4",
     // link: "https://hudi.blog",
   },
   useAbout: true,
